@@ -10,53 +10,53 @@ Calcola quanto pesano tutte le zucchine.
 const zucchine = [
   {
     varieta: "Zucchina Nera",
-    peso: 200gr,
-    lunghezza: 3cm,
+    peso: 200,
+    lunghezza: 3,
   },
   {
     varieta: "Zucchino Romanesco",
-    peso: 250gr,
-    lunghezza: 5cm,
+    peso: 250,
+    lunghezza: 5,
   },
   {
     varieta: "Zucchino Fiorentino",
-    peso: 300gr,
-    lunghezza: 4cm,
+    peso: 300,
+    lunghezza: 4,
   },
   {
     varieta: "Zucchina napoletana",
-    peso: 250gr,
-    lunghezza: 8cm,
+    peso: 250,
+    lunghezza: 8,
   },
   {
     varieta: "Zucchine tonde",
-    peso: ,
-    lunghezza: ,
+    peso: 100,
+    lunghezza: 6,
   },
   {
     varieta: "Zucchine trombetta",
-    peso: 500gr,
-    lunghezza: 4cm,
+    peso: 500,
+    lunghezza: 4,
   },
   {
     varieta: "Zucchina pâtisson",
-    peso: 320gr,
-    lunghezza: 7cm,
+    peso: 320,
+    lunghezza: 7,
   },
   {
     varieta: "Zucchino giallo",
-    peso: 250gr,
-    lunghezza: 5cm,
+    peso: 250,
+    lunghezza: 5,
   },
   {
     varieta: "Zucchino rugoso friulano",
-    peso: 350gr,
-    lunghezza: 6cm,
+    peso: 350,
+    lunghezza: 6,
   },
   {
     varieta: "Zucchina Crookneck",
-    peso: 450gr,
-    lunghezza: 10cm,
+    peso: 450,
+    lunghezza: 10,
   },
 ];
 
