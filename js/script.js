@@ -7,7 +7,7 @@ Calcola quanto pesano tutte le zucchine.
 */
 
 //
-const zucchine = [
+let zucchine = [
   {
     varieta: "Zucchina Nera",
     peso: 200,
@@ -60,4 +60,5 @@ const zucchine = [
   },
 ];
 
+console.log(zucchine);
 //calcolare il peso delle zucchine
